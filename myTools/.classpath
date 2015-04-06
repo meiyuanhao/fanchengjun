@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jrockit_160_05"/>
+	<classpathentry kind="lib" path="src/jacob-1.17.jar"/>
+	<classpathentry kind="lib" path="src/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="src/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="src/poi-contrib-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="src/poi-scratchpad-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="src/pinyin4j-2.5.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
