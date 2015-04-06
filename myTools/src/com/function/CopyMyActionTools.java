@@ -1,4 +1,4 @@
-sssssspackage com.function;
+package com.function;
 
 import java.io.File;
 import java.util.Arrays;
